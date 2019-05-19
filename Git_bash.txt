@@ -1,0 +1,7 @@
+1) git remote add origin (repository link) ! "origin" is the local name of the remote repository.
+2) git init
+3) git add . (to upload all file use .)
+	or
+   git add (filename.extension)
+4) $ git commit -m "First Commit" (anything in commit)
+5) git push origin master
